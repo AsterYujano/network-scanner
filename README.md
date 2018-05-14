@@ -1,2 +1,2 @@
-# network-scanner
-My network scanner with a famous snake
+# Network Scanner
+*My network scanner made with a famous snake*
